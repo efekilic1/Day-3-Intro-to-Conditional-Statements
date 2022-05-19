@@ -1,0 +1,6 @@
+/Users/muhammedkilic/Projects/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/If-ElseIf-Ternary-If.exe
+/Users/muhammedkilic/Projects/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/bin/Debug/If-ElseIf-Ternary-If.pdb
+/Users/muhammedkilic/Projects/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/If-ElseIf-Ternary-If.csproj.AssemblyReference.cache
+/Users/muhammedkilic/Projects/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/If-ElseIf-Ternary-If.csproj.CoreCompileInputs.cache
+/Users/muhammedkilic/Projects/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/If-ElseIf-Ternary-If.exe
+/Users/muhammedkilic/Projects/If-ElseIf-Ternary-If/If-ElseIf-Ternary-If/obj/Debug/If-ElseIf-Ternary-If.pdb
